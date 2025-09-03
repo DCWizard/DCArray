@@ -1,5 +1,5 @@
 # DCArray
-A MFC CArray version that does sucks. With a few extra feature like: Find, Push, Pop, 
+A MFC CArray version that doesn't sucks. With a few extra feature like: Find, Push, Pop, 
 in Clearcode tm.
 
 2 MB exe simply by using CString CArray. NO way. 
