@@ -11,6 +11,7 @@ I went from 2MB to 16K. Still big for a 32bit but acceptable.
 
 # Note for linux Programmer: ... 
   ....Comming soon 
+  
   You should use the Linux compatible version: DCLinuxString.h
   I haven't tested it please make sure you run the test. 
   *If it's not too much trouble let me know how it went. 
